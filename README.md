@@ -2,7 +2,7 @@
 
 ## Description
 
-`clean.bat` is a batch script meticulously crafted to automate the cleanup of temporary files and directories on a Windows system. By utilizing this script, users can efficiently free up disk space and enhance system performance through the removal of superfluous files.
+`clean_temp_files.bat` is a batch script meticulously crafted to automate the cleanup of temporary files and directories on a Windows system. By utilizing this script, users can efficiently free up disk space and enhance system performance through the removal of superfluous files.
 
 ## Features
 
@@ -14,8 +14,8 @@
 
 ## Usage
 
-1. **Download the Script**: Ensure the `clean.bat` file is present on your system.
-2. **Run as Administrator**: Right-click on the `clean.bat` file and select "Run as administrator" to grant the necessary permissions for deleting system files.
+1. **Download the Script**: Ensure the `clean_temp_files.bat` file is present on your system.
+2. **Run as Administrator**: Right-click on the `clean_temp_files.bat` file and select "Run as administrator" to grant the necessary permissions for deleting system files.
 3. **Follow Prompts**: Adhere to any on-screen instructions provided by the script to complete the cleaning process.
 
 ## Example
@@ -36,7 +36,7 @@ pause
 
 ## Customization
 
-The `clean.bat` script can be tailored by adding or modifying commands to target specific files or directories for cleanup. It is advisable to test any changes in a controlled environment to prevent unintended data loss.
+The `clean_temp_files.bat` script can be tailored by adding or modifying commands to target specific files or directories for cleanup. It is advisable to test any changes in a controlled environment to prevent unintended data loss.
 
 ## Disclaimer
 
