@@ -1,5 +1,4 @@
 # windows-temp-cleaner
-# clean_temp_files.bat
 
 ## Description
 
